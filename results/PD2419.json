@@ -9,7 +9,7 @@
     "snp": "A0000000000000A",
     "is_full": "true"
   },
-  "checked_at": "2026-09-27T15:27:12+00:00",
+  "checked_at": "2026-09-27T17:12:04+00:00",
   "result": {
     "status": "success",
     "data": {
@@ -80,7 +80,7 @@
       "isFull": 1,
       "ggBugDate": "2026-08-01",
       "first_seen": "2026-09-10T22:44:40+08:00",
-      "last_seen": "2026-09-27T15:27:12+00:00",
+      "last_seen": "2026-09-27T17:12:04+00:00",
       "download_url": "https://sysupdxdl.vivo.com.cn/upgrade/oem/files/20260829032850cd9b36d18a8352ed32b9f147c1da426c.zip"
     }
   ]
