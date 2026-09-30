@@ -1,0 +1,21 @@
+{
+  "model": {
+    "name": "iQOO Z5",
+    "device_type": "phone",
+    "model_sw_ver": "PD2148",
+    "device_model": "V2148A",
+    "sw_version": "8.12.36",
+    "android_ver": 13,
+    "snp": "A0000000000000A",
+    "is_full": "true"
+  },
+  "checked_at": "2026-09-30T18:02:46+00:00",
+  "result": {
+    "status": "no_update",
+    "data": {
+      "retcode": 210,
+      "message": "无更新",
+      "detail": "{\"message\":\"无更新\",\"retcode\":210}"
+    }
+  }
+}

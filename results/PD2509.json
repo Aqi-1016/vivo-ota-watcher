@@ -1,0 +1,21 @@
+{
+  "model": {
+    "name": "vivo X300",
+    "device_type": "phone",
+    "model_sw_ver": "PD2509",
+    "device_model": "V2509A",
+    "sw_version": "16.0.30.15.W10",
+    "android_ver": 16,
+    "snp": "A0000000000000A",
+    "is_full": "true"
+  },
+  "checked_at": "2026-09-30T18:02:46+00:00",
+  "result": {
+    "status": "no_update",
+    "data": {
+      "retcode": 210,
+      "message": "无更新",
+      "detail": "{\"message\":\"无更新\",\"retcode\":210}"
+    }
+  }
+}
