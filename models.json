@@ -2,12 +2,12 @@
   "_comment": "device_type: phone|tablet。model_sw_ver 为机型软件代码（PDxxxx），device_model 为公开型号（规律: PDxxxx -> VxxxxA）。sw_version 为该机型当前已装版本基线，用于查询更高版本；基线不在官方升级路线内会返回 No update（retcode 210）。model_sw_ver 必须唯一（作为结果文件名）。机型代码查询: https://khwang9883.github.io/MobileModels/brands/vivo_cn.html",
   "models": [
     {
-      "name": "vivo X200 Pro mini",
+      "name": "vivo X300",
       "device_type": "phone",
-      "model_sw_ver": "PD2419",
-      "device_model": "V2419A",
-      "sw_version": "16.1.12.38.W10",
-      "android_ver": 15,
+      "model_sw_ver": "PD2509",
+      "device_model": "V2509A",
+      "sw_version": "16.0.30.15.W10",
+      "android_ver": 16,
       "snp": "A0000000000000A",
       "is_full": "true"
     },
@@ -22,12 +22,12 @@
       "is_full": "true"
     },
     {
-      "name": "vivo X500",
+      "name": "iQOO Z5",
       "device_type": "phone",
-      "model_sw_ver": "PD2609",
-      "device_model": "V2609A",
-      "sw_version": "17.0.12.11.W10",
-      "android_ver": 17,
+      "model_sw_ver": "PD2148",
+      "device_model": "V2148A",
+      "sw_version": "8.12.36",
+      "android_ver": 13,
       "snp": "A0000000000000A",
       "is_full": "true"
     }
