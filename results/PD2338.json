@@ -1,0 +1,76 @@
+{
+  "model": {
+    "name": "iQOO Neo9",
+    "device_type": "phone",
+    "model_sw_ver": "PD2338",
+    "device_model": "V2338A",
+    "sw_version": "16.2.13.2.W10",
+    "android_ver": 16,
+    "snp": "A0000000000000A",
+    "is_full": "true"
+  },
+  "checked_at": "2026-10-29T04:32:29+00:00",
+  "result": {
+    "status": "success",
+    "data": {
+      "retcode": 0,
+      "patch": {
+        "version": "16.2.13.2.W10.V000L1",
+        "pk": "https://sysupgrade.vivo.com.cn/pk/redir.do?name=%40a126479%3D%3D13oomKkUHYzFyZyDHN4ZXYP3SZnEyZnYQYdZHMnCQMzDXMdDXNwZyNz1SM8lQNdJQNzjz3kwibnxTakxdK87&fileType=relative&fileLength=8613887557&packageType=patch",
+        "pkName": "202609050236124664244f4f6d6fc1fa74f690d3c12dee.zip",
+        "pkSha256": "939bd3cc3204ba409f1b8087befb36d736e9f6f6862dbe2695c609254bc47194",
+        "pkLen": "8613887557",
+        "h5Zip": "https://sysdesc.vivo.com.cn/upgrade/h5/2026/08/2026082419404087557672-2.zip",
+        "h5ZipSha256": "14dae63e785f7c1412a76f6e05e8c8df3630a15727d571862773caf5c0b20165",
+        "h5Url": "https://sysdesc.vivo.com.cn/upgrade/h5/2026/08/2026082419404087557672-2/index.html",
+        "logVer": 2,
+        "highLightFlag": 0,
+        "way": 1,
+        "crossVersion": "",
+        "osArdCross": "",
+        "otaType": "AB",
+        "osShowVer": "",
+        "osVer": "Funtouch 16.0",
+        "ardVer": "16",
+        "ggBug": 0,
+        "space": 0,
+        "checkString": ""
+      },
+      "ext": {
+        "isFull": 1,
+        "storage": 600,
+        "t1": 38,
+        "t2": 50,
+        "t3": 53,
+        "compilationTime": 20,
+        "smallVersionCompilationTime": 3,
+        "bigVersionCompilationTime": 5,
+        "syncCompileTime": 0,
+        "bbklog": 0,
+        "nightUpgrade": 0,
+        "bindChargeDay": 0,
+        "space": 100,
+        "timeStamp": 1793248351489,
+        "osVer": "",
+        "apiLevel": "",
+        "ggBugDate": "2026-07-01",
+        "ggInviteSwitch": 3
+      },
+      "download_url": "https://sysupdxdl.vivo.com.cn/upgrade/oem/files/202609050236124664244f4f6d6fc1fa74f690d3c12dee.zip"
+    }
+  },
+  "history": [
+    {
+      "version": "16.2.13.2.W10.V000L1",
+      "pkName": "202609050236124664244f4f6d6fc1fa74f690d3c12dee.zip",
+      "pkSha256": "939bd3cc3204ba409f1b8087befb36d736e9f6f6862dbe2695c609254bc47194",
+      "pkLen": "8613887557",
+      "download_url": "https://sysupdxdl.vivo.com.cn/upgrade/oem/files/202609050236124664244f4f6d6fc1fa74f690d3c12dee.zip",
+      "h5Url": "https://sysdesc.vivo.com.cn/upgrade/h5/2026/08/2026082419404087557672-2/index.html",
+      "isFull": 1,
+      "ggBugDate": "2026-07-01",
+      "first_seen": "2026-10-29T04:32:29+00:00",
+      "last_seen": "2026-10-29T04:32:29+00:00"
+    }
+  ]
+}
