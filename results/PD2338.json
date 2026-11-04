@@ -9,35 +9,38 @@
     "snp": "A0000000000000A",
     "is_full": "true"
   },
-  "checked_at": "2026-11-04T07:13:14+00:00",
+  "checked_at": "2026-11-04T18:26:53+00:00",
   "result": {
     "status": "success",
     "data": {
       "retcode": 0,
       "patch": {
-        "version": "16.2.13.2.W10.V000L1",
-        "pk": "https://sysupgrade.vivo.com.cn/pk/redir.do?name=%40a198841%3D%3D13oomKkUHYzFyZyDHN4ZXYP3SZnEyZnYQYdZHMnCQMzDXMdDXNwZyNz1SM8lQNdJQNzjz3kwibnxTakxdK32&fileType=relative&fileLength=8613887557&packageType=patch",
-        "pkName": "202609050236124664244f4f6d6fc1fa74f690d3c12dee.zip",
-        "pkSha256": "939bd3cc3204ba409f1b8087befb36d736e9f6f6862dbe2695c609254bc47194",
-        "pkLen": "8613887557",
-        "h5Zip": "https://sysdesc.vivo.com.cn/upgrade/h5/2026/08/2026082419404087557672-2.zip",
-        "h5ZipSha256": "14dae63e785f7c1412a76f6e05e8c8df3630a15727d571862773caf5c0b20165",
-        "h5Url": "https://sysdesc.vivo.com.cn/upgrade/h5/2026/08/2026082419404087557672-2/index.html",
+        "version": "16.2.14.1.W10.V000L1",
+        "pk": "https://sysupgrade.vivo.com.cn/pk/redir.do?name=%40a199399%3D%3D13oomKkCXYlUXYP3XZd6nMB3QMkMH09gXYkESNlCiY5JdMdZQMwZyN5FS0w1SNdJQNzjz3kwibnxTakxdK41&fileType=relative&fileLength=8614808045&packageType=patch",
+        "pkName": "20261019183614667b8edd11ef8b8ce4756e6b74f5df4e.zip",
+        "pkSha256": "5504609e7434cd2d4807eac60d9b7bb26f529799a82ce11960159152bffde803",
+        "pkLen": "8614808045",
+        "h5Zip": "https://sysdesc.vivo.com.cn/upgrade/h5/2026/10/2026102720004490062277-2.zip",
+        "h5ZipSha256": "28e8132780705c13f71e2c9a28aec55e8b8ae07cd3825d70c296bdaa5eaa2b2d",
+        "h5Url": "https://sysdesc.vivo.com.cn/upgrade/h5/2026/10/2026102720004490062277-2/index.html",
         "logVer": 2,
         "highLightFlag": 0,
-        "way": 1,
+        "way": 0,
+        "waySetting": "{}",
         "crossVersion": "",
         "osArdCross": "",
         "otaType": "AB",
         "osShowVer": "",
         "osVer": "Funtouch 16.0",
         "ardVer": "16",
-        "ggBug": 0,
+        "ggBug": 1,
         "space": 0,
         "checkString": ""
       },
       "ext": {
         "isFull": 1,
+        "bannerPic": "https://sysdesc.vivo.com.cn/upgrade/other/files/logo-OS6.svg",
+        "textColor": "255,255,86,102",
         "storage": 600,
         "t1": 38,
         "t2": 50,
@@ -50,13 +53,20 @@
         "nightUpgrade": 0,
         "bindChargeDay": 0,
         "space": 100,
-        "timeStamp": 1793256279755,
+        "timeStamp": 1793816815026,
+        "logoConfig": "{   \"line1\": [     {       \"text\": \"Origin\",       \"font_weight\": \"90\"     },     {       \"text\": \"OS \",       \"font_weight\": \"40\"     },     {       \"text\": \"6\",       \"font_weight\": \"90\"     }   ] }",
+        "normalLogo": "",
+        "darkLogo": "",
+        "noticeLogo": "",
+        "winLogo": "",
+        "winDarkLogo": "",
+        "logoContent": "",
         "osVer": "",
         "apiLevel": "",
-        "ggBugDate": "2026-07-01",
+        "ggBugDate": "2026-10-01",
         "ggInviteSwitch": 3
       },
-      "download_url": "https://sysupdxdl.vivo.com.cn/upgrade/oem/files/202609050236124664244f4f6d6fc1fa74f690d3c12dee.zip"
+      "download_url": "https://sysupdxdl.vivo.com.cn/upgrade/oem/files/20261019183614667b8edd11ef8b8ce4756e6b74f5df4e.zip"
     }
   },
   "history": [
@@ -71,6 +81,18 @@
       "ggBugDate": "2026-07-01",
       "first_seen": "2026-10-29T06:44:38+00:00",
       "last_seen": "2026-11-04T07:13:14+00:00"
+    },
+    {
+      "version": "16.2.14.1.W10.V000L1",
+      "pkName": "20261019183614667b8edd11ef8b8ce4756e6b74f5df4e.zip",
+      "pkSha256": "5504609e7434cd2d4807eac60d9b7bb26f529799a82ce11960159152bffde803",
+      "pkLen": "8614808045",
+      "download_url": "https://sysupdxdl.vivo.com.cn/upgrade/oem/files/20261019183614667b8edd11ef8b8ce4756e6b74f5df4e.zip",
+      "h5Url": "https://sysdesc.vivo.com.cn/upgrade/h5/2026/10/2026102720004490062277-2/index.html",
+      "isFull": 1,
+      "ggBugDate": "2026-10-01",
+      "first_seen": "2026-11-04T18:26:53+00:00",
+      "last_seen": "2026-11-04T18:26:53+00:00"
     }
   ]
 }
